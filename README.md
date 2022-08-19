@@ -41,5 +41,4 @@ The following commands are not yet implemented but on the Todo list:
 ```
 
 ### License
-ZLIB 
-Original [repository](https://github.com/zerosum0x0/WinREPL/)
+ZLIB license. Original [project](https://github.com/zerosum0x0/WinREPL/) was removed and this is reupload. 
